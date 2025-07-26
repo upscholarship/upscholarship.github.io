@@ -92,7 +92,7 @@ div.example {
 
 @media screen and (max-width: 800px) {
   div.example {
-    padding: 0%;
+    padding: 2%;
   }
 }
 table {
