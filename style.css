@@ -86,8 +86,8 @@ p {
 }
 
 div.example {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 18%;
+  padding-right: 18%;
 }
 
 @media screen and (max-width: 800px) {
